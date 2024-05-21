@@ -34,14 +34,14 @@ Play
 The current stable version of the game is available at the following
 links:
 
-* [do360now.net/invaders.html][PLAY1]
+* [helloai.com][PLAY1]
 * [do360now.github.io/invaders.html][PLAY2]
 
 A testing version of the game with recent bug fixes is available here:
 
 * [do360now.github.io/invaders/invaders.html][PLAY3]
 
-[PLAY1]: https://do360now.net/invaders.html
+[PLAY1]: https://helloai.com
 [PLAY2]: https://do360now.github.io/invaders.html
 [PLAY3]: https://do360now.github.io/invaders/invaders.html
 

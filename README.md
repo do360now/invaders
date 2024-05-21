@@ -11,7 +11,7 @@ different from those of Space Invaders.
 
 **[PLAY NOW!][PLAY1]**
 
-[IMG]: https://susam.github.io/blob/img/invaders/invaders-v0.7.1.png
+[IMG]: https://do360now.github.io/blob/img/invaders/invaders-v0.7.1.png
 
 
 Contents
@@ -34,16 +34,16 @@ Play
 The current stable version of the game is available at the following
 links:
 
-* [susam.net/invaders.html][PLAY1]
-* [susam.github.io/invaders.html][PLAY2]
+* [do360now.net/invaders.html][PLAY1]
+* [do360now.github.io/invaders.html][PLAY2]
 
 A testing version of the game with recent bug fixes is available here:
 
-* [susam.github.io/invaders/invaders.html][PLAY3]
+* [do360now.github.io/invaders/invaders.html][PLAY3]
 
-[PLAY1]: https://susam.net/invaders.html
-[PLAY2]: https://susam.github.io/invaders.html
-[PLAY3]: https://susam.github.io/invaders/invaders.html
+[PLAY1]: https://do360now.net/invaders.html
+[PLAY2]: https://do360now.github.io/invaders.html
+[PLAY3]: https://do360now.github.io/invaders/invaders.html
 
 There is rudimentary support for playing this game on small screens
 and touchscreens using the buttons provided below the game canvas.
@@ -274,7 +274,7 @@ Support
 
 To report bugs or ask questions, [create issues][ISSUES].
 
-[ISSUES]: https://github.com/susam/invaders/issues
+[ISSUES]: https://github.com/do360now/invaders/issues
 
 
 More
@@ -294,7 +294,7 @@ Universal Public Domain Dedication][CC0]. This font is based on the
 
 If you are doing something similar and want the bitmap arrays for a
 larger set of characters, see another project of mine named [PC
-Face](https://github.com/susam/pcface) which offers bitmap arrays for
+Face](https://github.com/do360now/pcface) which offers bitmap arrays for
 all 256 characters of the CP437 character set.
 
 [MDOS]: https://www.dafont.com/modern-dos.font

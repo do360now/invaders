@@ -1,7 +1,7 @@
 {
   "name": "invaders",
   "version": "0.9.0",
-  "description": "A 1980s-arcade-style game written using python, fastapi, HTML5, Canvas, and Web Audio",
+  "description": "A 1980s-arcade-style game written using HTML5, Canvas, ,Web Audio, and deployed using fastapi, uvicorn, and docker.",
   "main": "invaders.html",
   "files": [
     "invaders.html"
@@ -15,7 +15,7 @@
   "bugs": "https://github.com/do360now/invaders/issues",
   "license": "MIT",
   "author": "Clement Machado (https://helloai.com/)",
-  "repository": "github:susam/invaders",
+  "repository": "github:do360now/invaders",
   "devDependencies": {
     "standard": "latest",
     "eslint-plugin-html": "latest"

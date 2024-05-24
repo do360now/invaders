@@ -1,2 +1,8 @@
 fastapi
 uvicorn
+pygame
+stable-baselines3
+gymnasium
+gym
+numpy
+
